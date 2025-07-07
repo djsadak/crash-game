@@ -11,6 +11,7 @@
     <canvas id="crashChart" width="300" height="200"></canvas>
     <div id="crashMultiplier">1.00x</div>
   </div>
+  <br>
   <button onclick="reset()">🔄 إعادة التشغيل</button>
   <script src="script.js"></script>
 </body>
